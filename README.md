@@ -8,7 +8,7 @@ This software is a simple, one function program that was created to demonstrate 
 
 I used visual studio code to write the program and its built-in source control features to link it with the repository.
 
-I used Python as the language for the software, using only the standard features/libraries, the most basic form of a function,and a single print statement.
+I used Python as the language for the software, using only the standard features/libraries, the most basic form of a function, and a single print statement.
 
 # Useful Websites
 

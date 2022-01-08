@@ -1,8 +1,8 @@
 # 1. Name:
 #       Braxton Meyer
-# 2. Assignment Name:
-#       W01 Prove: Personal Portfolio, Hello World
-# 3. Assignment Description:
+# 2. Software Name:
+#       Personal Portfolio, Hello World
+# 3. Software Description:
 #       This program is a simple "Hello World" Program written
 #       to demonstrate what I already know.
 
